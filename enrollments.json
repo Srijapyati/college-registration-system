@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6a0988fb48089eabbd167a70"
+  },
+  "student_id": "6a09852448089eabbd167a5a",
+  "course_id": "6a0985ee48089eabbd167a61",
+  "status": "active",
+  "enrolled_at": "2026-05-17"
+},
+{
+  "_id": {
+    "$oid": "6a098a8948089eabbd167a76"
+  },
+  "student_id": "6a09856c48089eabbd167a5c",
+  "course_id": "6a09860848089eabbd167a63",
+  "status": "active",
+  "enrolled_at": "2026-05-17"
+},
+{
+  "_id": {
+    "$oid": "6a098ae448089eabbd167a7d"
+  },
+  "student_id": "6a09858348089eabbd167a5e",
+  "course_id": "6a09861a48089eabbd167a65",
+  "status": "active",
+  "enrolled_at": "2026-05-17"
+}]

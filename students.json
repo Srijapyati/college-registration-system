@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6a09852448089eabbd167a5a"
+  },
+  "name": "Ravi Kumar",
+  "email": "ravi@college.com",
+  "password": "hashed123",
+  "enrolled_courses": []
+},
+{
+  "_id": {
+    "$oid": "6a09856c48089eabbd167a5c"
+  },
+  "name": "Priya Sharma",
+  "email": "priya@college.com",
+  "password": "hashed456",
+  "enrolled_courses": []
+},
+{
+  "_id": {
+    "$oid": "6a09858348089eabbd167a5e"
+  },
+  "name": "Arjun Patel",
+  "email": "arjun@college.com",
+  "password": "hashed789",
+  "enrolled_courses": []
+}]

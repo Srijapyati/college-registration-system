@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6a0985ee48089eabbd167a61"
+  },
+  "title": "Data Structures",
+  "department": "CSE",
+  "credits": 3,
+  "capacity": 60,
+  "enrolled_count": 1
+},
+{
+  "_id": {
+    "$oid": "6a09860848089eabbd167a63"
+  },
+  "title": "Database Management",
+  "department": "CSE",
+  "credits": 3,
+  "capacity": 50,
+  "enrolled_count": 1
+},
+{
+  "_id": {
+    "$oid": "6a09861a48089eabbd167a65"
+  },
+  "title": "Operating Systems",
+  "department": "CSE",
+  "credits": 4,
+  "capacity": 45,
+  "enrolled_count": 1
+},
+{
+  "_id": {
+    "$oid": "6a09875848089eabbd167a69"
+  },
+  "title": "Computer Networks",
+  "department": "CSE",
+  "credits": 3,
+  "capacity": 55,
+  "enrolled_count": 0
+},
+{
+  "_id": {
+    "$oid": "6a09876d48089eabbd167a6b"
+  },
+  "title": "Mathematics",
+  "department": "SCIENCE",
+  "credits": 4,
+  "capacity": 70,
+  "enrolled_count": 0
+}]
